@@ -44,19 +44,20 @@ welcome to my source code, pls excuse the mess ¯\_(ツ)_/¯
 
 # Nadrealizam
 
-> > Moj praktični rad za završni rad (obranjen rad 2018. godine)
-> > Znanje stečeno 4-godišnjim obrazovanjem u ŠUDIGO za web dizajnera
->  > 
+> Moj praktični rad za završni rad (obranjen rad 2018. godine)
+> Znanje stečeno 4-godišnjim obrazovanjem u ŠUDIGO za web dizajnera
 
 ## 📝 Pregled funkcionalnosti
 
-* **Uloge korisnika:** Sudionik
+* **Uloge korisnika:** UREDITI
 
 ---
 
 ## 🛠️ Tehničke specifikacije
 
 * Rad je utemeljen na znanjima stečenim tijekom 4-godišnjeg obrazovanja za web dizajnera. Web aplikacija je napravljena isključivo pomoću HTML i CSS u programu Brackets. Pokreće se lokalno pomoću XAMPP-a.
+
+* Prva stranica koja se pokreće jest index.
 
 ---
 
