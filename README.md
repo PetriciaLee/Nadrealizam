@@ -51,6 +51,10 @@ welcome to my source code, pls excuse the mess ¯\_(ツ)_/¯
 
 * **Uloge korisnika:** UREDITI
 
++slikeeeeee
+
+različite stranice i sl.
+
 ---
 
 ## 🛠️ Tehničke specifikacije
