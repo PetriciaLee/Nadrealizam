@@ -44,9 +44,9 @@ welcome to my source code, pls excuse the mess ¯\_(ツ)_/¯
 
 # Nadrealizam
 
-> Moj praktični rad za završni rad (obranjen rad 2018. godine)
-> Znanje stečeno 4-godišnjim obrazovanjem u ŠUDIGO za web dizajnera
-> 
+> > Moj praktični rad za završni rad (obranjen rad 2018. godine)
+> > Znanje stečeno 4-godišnjim obrazovanjem u ŠUDIGO za web dizajnera
+>  > 
 
 ## 📝 Pregled funkcionalnosti
 
@@ -56,16 +56,13 @@ welcome to my source code, pls excuse the mess ¯\_(ツ)_/¯
 
 ## 🛠️ Tehničke specifikacije
 
-* **Jezici:** HTML, CSS, PHP
-* **Baza podataka:** MySQL
+* Rad je utemeljen na znanjima stečenim tijekom 4-godišnjeg obrazovanja za web dizajnera. Web aplikacija je napravljena isključivo pomoću HTML i CSS u programu Brackets. Pokreće se lokalno pomoću XAMPP-a.
 
 ---
 
 ## 👨‍💻 O aplikaciji
 
-Aplikacija koja ima ulogu kviza, postavljana pitanja o random činjenicama, od pop kulture do svemirske znanosti. 
-
-Svi koji rabe aplikaciju, garantirano će nešto novo naučiti i samim time će aplikacija biti češće korištena.
+Aplikacija posvećena umjenticima nadrealizma. Ovaj rad objedinjuje nekoliko web stranica poznatih umjetnika nadrealizma, s zanimljivim činjenicama, njihovim obilježenim postignućima i ostalim elementima biografije.  
 
 ---
 Made with ❤️ by Petra J.
