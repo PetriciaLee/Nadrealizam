@@ -49,11 +49,25 @@ welcome to my source code, pls excuse the mess ¯\_(ツ)_/¯
 
 ## 📝 Pregled funkcionalnosti
 
-* **Uloge korisnika:** UREDITI
+Ovaj projekat predstavlja web aplikaciju/galeriju usmjerenu na vizualnu prezentaciju i promociju raznih umjetnika. Fokus projekta je na dizajnerskoj raznolikosti, prilagodljivom vizualnom identitetu i jednostavnom korisničkom iskustvu.
 
-+slikeeeeee
+* **1. Vizualna i dizajnerska raznolikost** 
 
-različite stranice i sl.
+* Prilagođeni stilovi po umjetniku: Budući da je primarni zadatak projekta bio dizajn, svaka podstranica posvećena pojedinom umjetniku posjeduje jedinstven vizualni identitet, CSS stilizaciju i raspored elemenata koji odražavaju specifičan stil tog autora.
+
+* Responzivne galerije: Prikaz radova i slika izveden je pomoću modernog HTML5/CSS3 izgleda uz minimalnu upotrebu JavaScripta, što osigurava brzo učitavanje, čiste tranzicije i visoke performanse.
+
+* **2. Tehnička arhitektura i jednostavnost** 
+
+* Lagana struktura (Lightweight stack): Stranica je izgrađena primjenom čistog HTML5, CSS3 i PHP-a, čime se izbjeglo nepotrebno opterećivanje eksternim bibliotekama i ostvarena je visoka pristupačnost.
+
+* Minimalan JavaScript: Interaktivnost i dinamika galerija realizirane su primarno kroz CSS (poput :hover efekata i tranzicija) te osnovni JS gdje je to nužno.
+
+* **3. Korisnički sustav i dinamika (PHP Aplikacija)**
+
+* HP Pozadina (Backend): Aplikacija koristi PHP za dinamičko upravljanje sadržajem i logikom pristupa.
+
+* Sustav autentifikacije / Autorska zona: Omogućava prijavu korisnika (User Authentication) kako bi se otključale dodatne funkcionalnosti — poput pristupa ekskluzivnim galerijama visoke rezolucije, detaljnijim informacijama o umjetnicima te dodatnim biografskim materijalima.
 
 ---
 
@@ -67,30 +81,30 @@ različite stranice i sl.
 
 ## 👨‍💻 O aplikaciji
 
-Aplikacija posvećena umjenticima nadrealizma. Ovaj rad objedinjuje nekoliko web stranica poznatih umjetnika nadrealizma, s zanimljivim činjenicama, njihovim obilježenim postignućima i ostalim elementima biografije.  
+Aplikacija posvećena umjetnicima nadrealizma. Ovaj rad objedinjuje nekoliko web stranica poznatih umjetnika nadrealizma, s zanimljivim činjenicama, njihovim obilježenim postignućima i ostalim elementima biografije.  
 
 ---
 
 
 #### Ogledni primjer "Nadrealizam (Surrealism)"
 
-* 📄 [Početna (PDF)](demos/pocetna.pdf)
+* 📄 [Početna (PDF)](demo/pocetna.pdf)
 
 * **Podstranice (PDFs):**
 
-  * 🎨 [Salvador Dalí](demos/dali.pdf)
+  * 🎨 [Salvador Dalí](demo/dali.pdf)
 
-  * 🎨 [Frida Kahlo](demos/frida.pdf)
+  * 🎨 [Frida Kahlo](demo/frida.pdf)
 
-  * 🎨 [René Magritte](demos/rene.pdf)
+  * 🎨 [René Magritte](demo/rene.pdf)
 
-  * 🎨 [Max Ernst](demos/mx.pdf)
+  * 🎨 [Max Ernst](demo/mx.pdf)
 
-  * 🎨 [Joan Miró](demos/miro.pdf)
+  * 🎨 [Joan Miró](demo/miro.pdf)
 
-  * 🎨 [Leonora Carrington](demos/Leonora.pdf)
+  * 🎨 [Leonora Carrington](demo/Leonora.pdf)
 
-  * 📬 [Contact Page](demos/Kontakt.pdf)
+  * 📬 [Contact Page](demo/Kontakt.pdf)
  
 ---
 
