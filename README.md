@@ -51,19 +51,19 @@ welcome to my source code, pls excuse the mess ¯\_(ツ)_/¯
 
 Ovaj projekat predstavlja web aplikaciju/galeriju usmjerenu na vizualnu prezentaciju i promociju raznih umjetnika. Fokus projekta je na dizajnerskoj raznolikosti, prilagodljivom vizualnom identitetu i jednostavnom korisničkom iskustvu.
 
-* **1. Vizualna i dizajnerska raznolikost** 
+**1. Vizualna i dizajnerska raznolikost** 
 
 * Prilagođeni stilovi po umjetniku: Budući da je primarni zadatak projekta bio dizajn, svaka podstranica posvećena pojedinom umjetniku posjeduje jedinstven vizualni identitet, CSS stilizaciju i raspored elemenata koji odražavaju specifičan stil tog autora.
 
 * Responzivne galerije: Prikaz radova i slika izveden je pomoću modernog HTML5/CSS3 izgleda uz minimalnu upotrebu JavaScripta, što osigurava brzo učitavanje, čiste tranzicije i visoke performanse.
 
-* **2. Tehnička arhitektura i jednostavnost** 
+**2. Tehnička arhitektura i jednostavnost** 
 
 * Lagana struktura (Lightweight stack): Stranica je izgrađena primjenom čistog HTML5, CSS3 i PHP-a, čime se izbjeglo nepotrebno opterećivanje eksternim bibliotekama i ostvarena je visoka pristupačnost.
 
 * Minimalan JavaScript: Interaktivnost i dinamika galerija realizirane su primarno kroz CSS (poput :hover efekata i tranzicija) te osnovni JS gdje je to nužno.
 
-* **3. Korisnički sustav i dinamika (PHP Aplikacija)**
+**3. Korisnički sustav i dinamika (PHP Aplikacija)**
 
 * HP Pozadina (Backend): Aplikacija koristi PHP za dinamičko upravljanje sadržajem i logikom pristupa.
 
@@ -86,7 +86,7 @@ Aplikacija posvećena umjetnicima nadrealizma. Ovaj rad objedinjuje nekoliko web
 ---
 
 
-#### Ogledni primjer "Nadrealizam (Surrealism)"
+### Ogledni primjer "Nadrealizam (Surrealism)"
 
 * 📄 [Početna (PDF)](demo/pocetna.pdf)
 
