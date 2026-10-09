@@ -70,39 +70,13 @@ različite stranice i sl.
 Aplikacija posvećena umjenticima nadrealizma. Ovaj rad objedinjuje nekoliko web stranica poznatih umjetnika nadrealizma, s zanimljivim činjenicama, njihovim obilježenim postignućima i ostalim elementima biografije.  
 
 ---
-Made with ❤️ by Petra J.
 
-This collection features 22 web projects created during my middle school years (2015–2018). These projects reflect my early journey into web development, where I experimented with HTML, CSS, and basic scripts in other programming languages.
 
-> **Note on Language:** Content across these websites is written in a mix of English and Croatian.
+#### Ogledni primjer "Nadrealizam (Surrealism)"
 
-### Quick Demos & Previews
+* 📄 [Početna (PDF)](demos/pocetna.pdf)
 
-Below are previews, screenshots, and PDF documents highlighting a selection of these early projects:
-
-#### 1. Alaska
-
-* 📹 [Watch Video Demo](demos/alaska.mp4)
-
-#### 2. Škotska (Scotland)
-
-* 📸 [View Screenshot](demos/skotska.png)
-
-* 📄 [View PDF Document](demos/skotska.pdf)
-
-#### 3. Smotra
-
-* 📄 [View PDF Document](demos/smotra.pdf)
-
-#### 4. Travel
-
-* 📹 [Watch Video Demo](demos/travel.mp4)
-
-#### 5. Nadrealizam (Surrealism)
-
-* 📄 [Main Page (PDF)](demos/pocetna.pdf)
-
-* **Subpages (PDFs):**
+* **Podstranice (PDFs):**
 
   * 🎨 [Salvador Dalí](demos/dali.pdf)
 
@@ -117,4 +91,9 @@ Below are previews, screenshots, and PDF documents highlighting a selection of t
   * 🎨 [Leonora Carrington](demos/Leonora.pdf)
 
   * 📬 [Contact Page](demos/Kontakt.pdf)
+ 
+---
+
+Made with ❤️ by Petra J.
+
 
